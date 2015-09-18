@@ -1,0 +1,28 @@
+div {
+    width: 300px;
+    margin: 0px;
+    padding: 0px;
+    display: inline-block;
+}
+
+.left {
+    background-color: #4A90E2;
+    height: 900px;
+}
+
+.center {
+    background-color: #50E3C2;
+    height: 900px;
+}
+
+.right {
+    background-color: #B8E986;
+    height: 900px;  
+}
+
+img {
+    height: 150px;
+    width: inherit;
+    padding: 0px;
+    margin-top: 750px;
+}
